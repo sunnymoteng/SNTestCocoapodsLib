@@ -1,0 +1,16 @@
+PODS:
+  - SNTestCocoapodsLib (0.1.0)
+
+DEPENDENCIES:
+  - SNTestCocoapodsLib (from `../`)
+
+EXTERNAL SOURCES:
+  SNTestCocoapodsLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SNTestCocoapodsLib: 773071e85eaf5134ac210763621900a56c1a7c41
+
+PODFILE CHECKSUM: c2d1fc47fa328dd7fcd0f1c48cc4c0db3ae9b71c
+
+COCOAPODS: 1.1.1
